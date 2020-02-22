@@ -798,7 +798,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Juega y Aprende en clase
+  m_Text: Juega y Aprende en clase.
 --- !u!222 &1443779152
 CanvasRenderer:
   m_ObjectHideFlags: 0
